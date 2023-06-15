@@ -43,7 +43,7 @@ Image('https://www.python.org/static/community_logos/python-logo-master-v3-TM-fl
 print("Welcome to Academic!")
 ```
 
-    Welcome to Academic!
+    Welcome to Academic!!!
 
 
 ## Install Python and JupyterLab
@@ -72,7 +72,7 @@ In Jupter, choose _Markdown_ as the type of the first cell and wrap your Academi
 
 ```
 ---
-title: My post's title
+title: My post's title123456
 date: 2019-09-01
 
 # Put any other Academic metadata here...
